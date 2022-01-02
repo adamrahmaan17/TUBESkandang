@@ -14,3 +14,19 @@ buah servo dimana memiliki fungsi untuk membuka pintu pakan dan minuman agar bis
 Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang” ini akan memudahkan pemilik dalam mengurusi anak-anak ayam.
 
 LINK VIDEO DEMO : https://drive.google.com/drive/folders/1--9uHkfMFn9H3ScOYbiOF4YbpxbvRAnE
+
+Alat dan Bahan
+1.   	ESP32 Development board
+2.   	Breadboard
+3.   	Relay
+4.   	Servo
+5.   	Buzzer
+6.   	Sensor Ultrasonik
+7.   	Sensor DHT11
+8.   	Heatsink/kipas
+9.   	LCD
+10.	Jumper
+11.	Lampu Bohlam
+
+Perangkat Lunak yang digunakan :
+Arduino IDE
