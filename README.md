@@ -25,8 +25,8 @@ Alat dan Bahan
 7.   	Sensor DHT11
 8.   	Heatsink/kipas
 9.   	LCD
-10.	Jumper
-11.	Lampu Bohlam
+10.   	Jumper
+11.   	Lampu Bohlam
 
 Perangkat Lunak yang digunakan :
 Arduino IDE
