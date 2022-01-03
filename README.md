@@ -8,7 +8,7 @@
 
 >Implementasi Pakan dan Minuman Ayam Otomatis Berbasis IoT (Smart Kandang) 
 
-<p> *Dimana tujuan dan fungsi alat yang kelompok kami buat yaitu untuk memudahkan pemilik kandang dalam memberikan makanan dan minumam secara otomatis.  
+<p> * Dimana tujuan dan fungsi alat yang kelompok kami buat yaitu untuk memudahkan pemilik kandang dalam memberikan makanan dan minumam secara otomatis.  
  Karena, untuk pakan ayam sendiri sudah kami atur di dalam kode program yaitu 12 jam sekali untuk pakan ayam dimana dimulai dari jam 7 pagi dan jam 19.00 malam.<br><br>
  
  * Pada masing-masing tempat pakan dan minuman ayam terdapat sebuah sensor ultrasonik dimana memilik fungsi untuk mengetahui pakan dan minuman masih tersisi “penuh” “sedang” atau “habis” jika menyatakan “habis” maka akan mengeluarkan suara bunyi/peringatan dengan melalui buzzer.<br><br> 
