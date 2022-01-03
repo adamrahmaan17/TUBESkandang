@@ -1,4 +1,7 @@
-# NAMA ANGGOTA KELOMPOK
+#TUGAS BESAR SMART-KANDANG
+
+
+>NAMA ANGGOTA KELOMPOK
 
 * Vina Oktariana 118140061
 * Adam Taufiqurrahman 118140065
@@ -19,6 +22,8 @@ Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang�
 
 **LINK VIDEO DEMO : https://drive.google.com/drive/folders/1--9uHkfMFn9H3ScOYbiOF4YbpxbvRAnE**
 
+<br><br>
+
 > Alat dan Bahan
 1.   	ESP32 Development board
 2.   	Breadboard
@@ -37,6 +42,6 @@ Arduino IDE
 
 # REFRENSI 
 
-[Alat Pakan Ayam Otomatis Menggunakan Arduino] (https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
-[Membuat Pakan Ikan Otomatis Arduino] (https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
-[Water Tank level monitoring] (https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
+[Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
+[Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
+[Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
