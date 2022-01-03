@@ -42,6 +42,6 @@ Arduino IDE
 
 ## REFRENSI 
 
-1. [Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI)
-2. [Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s)
-3. [Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8)
+* [Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI)
+* [Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s)
+* [Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8)
