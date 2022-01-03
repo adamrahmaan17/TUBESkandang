@@ -1,4 +1,4 @@
-#TUGAS BESAR SMART-KANDANG
+# TUGAS BESAR SMART-KANDANG
 
 
 >NAMA ANGGOTA KELOMPOK
@@ -42,6 +42,6 @@ Arduino IDE
 
 # REFRENSI 
 
-[Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
-[Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
-[Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
+1. [Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
+2. [Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
+3. [Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
