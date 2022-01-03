@@ -1,7 +1,7 @@
 # TUGAS BESAR SMART-KANDANG
 
 
->NAMA ANGGOTA KELOMPOK
+## NAMA ANGGOTA KELOMPOK
 
 * Vina Oktariana 118140061
 * Adam Taufiqurrahman 118140065
@@ -9,7 +9,7 @@
 * Angga Kurnia 118140085
 
 
->Implementasi Pakan dan Minuman Ayam Otomatis Berbasis IoT (Smart Kandang) 
+## Implementasi Pakan dan Minuman Ayam Otomatis Berbasis IoT (Smart Kandang) 
 
  * Dimana tujuan dan fungsi alat yang kelompok kami buat yaitu untuk memudahkan pemilik kandang dalam memberikan makanan dan minumam secara otomatis.  
  Karena, untuk pakan ayam sendiri sudah kami atur di dalam kode program yaitu 12 jam sekali untuk pakan ayam dimana dimulai dari jam 7 pagi dan jam 19.00 malam.<br><br>
@@ -24,7 +24,7 @@ Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang�
 
 <br><br>
 
-> Alat dan Bahan
+## Alat dan Bahan
 1.   	ESP32 Development board
 2.   	Breadboard
 3.   	Relay
@@ -40,8 +40,8 @@ Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang�
 > Perangkat Lunak yang digunakan :
 Arduino IDE
 
-# REFRENSI 
+## REFRENSI 
 
-1. [Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
-2. [Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
-3. [Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
+1. [Alat Pakan Ayam Otomatis Menggunakan Arduino](https://www.youtube.com/watch?v=n-xhdVrL8ZI)
+2. [Membuat Pakan Ikan Otomatis Arduino](https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s)
+3. [Water Tank level monitoring](https://www.youtube.com/watch?v=07G1xSvs0s8)
