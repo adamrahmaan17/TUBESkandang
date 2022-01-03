@@ -37,8 +37,8 @@ Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat â€œsmart kandangâ
 10.   	Jumper
 11.   	Lampu Bohlam
 
-> Perangkat Lunak yang digunakan :
-Arduino IDE
+## Perangkat Lunak yang digunakan :
+* Arduino IDE
 
 ## REFRENSI 
 
