@@ -18,9 +18,9 @@
  
  * Dan di masing-masing tempat pakan dan minuman pun terdapat 1 
 buah servo dimana memiliki fungsi untuk membuka pintu pakan dan minuman agar bisa terbuka. 
-Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang” ini akan memudahkan pemilik dalam mengurusi anak-anak ayam. 
+Jadi, kesimpulan yang kami dapat yaitu dengan menggunakan alat “smart kandang” ini akan memudahkan pemilik dalam mengurusi anak-anak ayam. <br>
 
-                         **[LINK VIDEO DEMO](https://drive.google.com/drive/folders/1--9uHkfMFn9H3ScOYbiOF4YbpxbvRAnE)**
+**[LINK VIDEO DEMO](https://drive.google.com/drive/folders/1--9uHkfMFn9H3ScOYbiOF4YbpxbvRAnE)**
 
 <br><br>
 
