@@ -1,4 +1,4 @@
-*NAMA KELOMPOK*
+##NAMA KELOMPOK
 
 *Vina Oktariana 118140061
 *Adam Taufiqurrahman 118140065
@@ -6,7 +6,7 @@
 *Angga Kurnia 118140085
 
 
-“Implementasi Pakan dan Minuman Ayam Otomatis Berbasis IoT (Smart Kandang) 
+>Implementasi Pakan dan Minuman Ayam Otomatis Berbasis IoT (Smart Kandang) 
 
 Dimana tujuan dan fungsi alat yang kelompok kami buat yaitu untuk memudahkan pemilik kandang dalam memberikan makanan dan minumam secara otomatis.
  Karena, untuk pakan ayam sendiri sudah kami atur di dalam kode program yaitu 12 jam sekali untuk pakan ayam dimana dimulai dari jam 7 pagi dan jam 19.00 malam. Pada masing-masing tempat pakan dan minuman ayam terdapat sebuah sensor ultrasonik dimana memilik fungsi untuk mengetahui pakan dan minuman masih tersisi “penuh” “sedang” atau “habis” jika menyatakan “habis” maka akan mengeluarkan suara bunyi/peringatan dengan melalui buzzer. Dan di masing-masing tempat pakan dan minuman pun terdapat 1 
@@ -30,3 +30,9 @@ Alat dan Bahan
 
 Perangkat Lunak yang digunakan :
 Arduino IDE
+
+##REFRENSI 
+
+*[Alat Pakan Ayam Otomatis Menggunakan Arduino] (https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
+*[Membuat Pakan Ikan Otomatis Arduino] (https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
+*[Water Tank level monitoring] (https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
