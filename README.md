@@ -1,4 +1,4 @@
-##NAMA KELOMPOK
+#NAMA KELOMPOK
 
 *Vina Oktariana 118140061
 *Adam Taufiqurrahman 118140065
@@ -31,8 +31,8 @@ Alat dan Bahan
 Perangkat Lunak yang digunakan :
 Arduino IDE
 
-##REFRENSI 
+#REFRENSI 
 
-*[Alat Pakan Ayam Otomatis Menggunakan Arduino] (https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
-*[Membuat Pakan Ikan Otomatis Arduino] (https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
-*[Water Tank level monitoring] (https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
+[Alat Pakan Ayam Otomatis Menggunakan Arduino] (https://www.youtube.com/watch?v=n-xhdVrL8ZI “Youtube”)
+[Membuat Pakan Ikan Otomatis Arduino] (https://www.youtube.com/watch?v=d0GI-JJ9GJQ&t=97s “Youtube”)
+[Water Tank level monitoring] (https://www.youtube.com/watch?v=07G1xSvs0s8 “Youtube”)
